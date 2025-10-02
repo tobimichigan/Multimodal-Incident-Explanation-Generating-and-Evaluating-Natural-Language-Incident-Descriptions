@@ -37,24 +37,32 @@ References: The assertions above are grounded in current research. For instance,
 
 <h1>REFERENCES </h1>
 
+<p> See Original Article Link for full references</p>
+
 <p>Original Dataset provided by:
 @article{alshami20252coool, title = {2COOOL: 2nd Workshop on the Challenge Of Out-Of-Label Hazards in Autonomous Driving}, author = {AlShami, Ali K, Rabinowitz, Ryan, Shoman, Maged, Fang, Jianwu, Picek, Lukas, Lo, Shao-Yuan, Cruz, Steve, Lam, Khang Nhut, Kamod, Nachiket, Li, Lei-Lei, others}, journal = {arXiv preprint arXiv:2508.21080}, year = {2025} } ---------------------------------------------------------------------------------------------------------------- @article{alshami2024coool, title = {COOOL: Challenge of Out-of-Label -- A Novel Benchmark for Autonomous Driving}, author = {AlShami, Ali K, Kalita, Ananya, Rabinowitz, Ryan, Lam, Khang, Bezbarua, Rishabh, Boult, Terrance, and Kalita, Jugal}, journal = {arXiv preprint arXiv:2412.05462}, year = {2024} } . 2COOOL. https://kaggle.com/competitions/2coool, 2025. Kaggle.</p>
 
-<img width="5370" height="3543" alt="eda_analysis" src="https://github.com/user-attachments/assets/7cd87a2b-7cf6-4b23-a4ed-8b8bb64e83d9" />
+<img width="5370" height="3543" alt="eda_analysis" src="https://github.com/user-attachments/assets/7cd87a2b-7cf6-4b23-a4ed-8b8bb64e83d9" /> </p>
 
 
 <p>
 [1] [2501.10604] When language and vision meet road safety: leveraging multimodal large language models for video-based traffic accident analysis
 https://arxiv.org/abs/2501.10604
+  
 [2] [2504.16134] Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends
 https://arxiv.org/abs/2504.16134
+
 [3] [2506.18372] OpenEvents V1: Large-Scale Benchmark Dataset for Multimodal Event Grounding
 https://arxiv.org/abs/2506.18372
+
 [4] [2506.20093] ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset
 https://arxiv.org/abs/2506.20093
+
 [5] [2509.19096v2] Investigating Traffic Accident Detection Using Multimodal Large Language Models
 https://arxiv.org/abs/2509.19096v2?utm_source=agent-k&utm_medium=email&utm_campaign=llm-daily-september-25-2025
+
 [6] [7] [8] [9] [10] (PDF) Leveraging Deep Learning and Multimodal Large Language Models for Near-Miss Detection Using Crowdsourced Videos
-https://www.researchgate.net/publication/387718170_Leveraging_Deep_Learning_and_Multimodal_Large_Language_Models_for_Near-Miss_Detection_Using_Crowdsourced_Videos </p>
+https://www.researchgate.net/publication/387718170_Leveraging_Deep_Learning_and_Multimodal_Large_Language_Models_for_Near-Miss_Detection_Using_Crowdsourced_Videos 
+</p>
 
 
