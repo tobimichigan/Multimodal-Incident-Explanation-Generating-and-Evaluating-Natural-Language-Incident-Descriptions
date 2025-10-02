@@ -6,9 +6,9 @@ Original Article Publication: https://handsonlabs.org/multimodal-incident-explan
 <h1 align="center">Abstract</h1>
 
 <p>This paper introduces a multimodal framework that couples incident detection with natural-language incident explanation for dashcam footage. The system leverages compact, handcrafted video descriptors to trigger textual caption generation using a rule- and-template-based ImprovedTextGenerator, and evaluates textual fidelity with METEOR, SPICE and a novel CiDER-D metric. We describe dataset curation, model architectures, evaluation protocol and present extensive ablations and qualitative examples. Results show that motion- and edge-informed incident selection improves caption quality, and that CiDER-D better correlates with human judgments for short, structured incident descriptions. We provide reproducible implementation notes and discuss deployment considerations for traffic-safety applications.
-Keywords</p>
+</p>
 
-<p>Multimodal captioning; incident explanation; CiDER-D; METEOR; SPICE; dashcam analytics; template-based generation </p>
+<p>Keywords: Multimodal captioning; incident explanation; CiDER-D; METEOR; SPICE; dashcam analytics; template-based generation </p>
 
 <h1>Research Gaps & Major Contribution to Knowledge</h1>
 
