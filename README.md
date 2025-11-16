@@ -21,7 +21,8 @@ Original Article Publication: https://handsonlabs.org/multimodal-incident-explan
 
 
 <p>A third gap concerns near-miss incidents and contextual understanding. Traffic safety research traditionally emphasizes actual crashes, often overlooking near-misses despite their predictive value. For example, Jaradat et al. stress that near-miss events “offer crucial predictive insights” but are “underrepresented in traffic safety research,” creating a “significant gap” in early hazard detection[6][7]. In addition, there is little work on generating explanatory narratives for detected events. Existing methods either output raw labels (e.g. “collision”) or simple captions; they do not provide coherent descriptions of why or how an incident occurred. In summary, current literature calls for systems that can ingest dashcam video, detect both crashes and near-misses, and automatically produce human-readable incident narratives, but this combination remains largely unexplored[6][1].
-Contributions to Knowledge. </p>
+ </p>
+<h1>Contributions to Knowledge.</h1>
 
 <p>This work addresses the above gaps by introducing a novel, end-to-end multimodal pipeline for dashcam incident detection and explanation. The main contributions are as follows:
 2COOOL Dataset and EDA. We compile the 2COOOL dataset, a curated collection of first-person dashcam videos annotated with incident labels (crash, near-miss, or normal driving) and accompanied by synthetic narrative descriptions. Unlike previous image-only event corpora[3], 2COOOL spans continuous driving footage and explicitly includes near-miss events. We conduct a comprehensive exploratory data analysis (Fig. 1) to characterize video features (optical flow, edge density, brightness, etc.) across incident types, revealing the spatiotemporal patterns that underpin accidents. This dataset and analysis fill the empirical gap noted by Jaradat et al.[6] and provide a new benchmark for multimodal traffic event understanding. </p>
